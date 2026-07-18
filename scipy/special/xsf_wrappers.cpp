@@ -61,9 +61,6 @@
 #include <xsf/cephes/unity.h>
 #include <xsf/cephes/yn.h>
 
-#include "sf_error.h"
-#include "xsf_wrappers.h"
-
 using namespace std;
 
 namespace {
